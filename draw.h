@@ -58,15 +58,17 @@ public:
 
 	bool Draw();
 	bool Active(int ch);
-	bool Up_active();
-	bool Down_active();
-	bool Left_active();
-	bool Right_active();
 	bool Generate_num();
+	
 private:
+	bool up_active();
+	bool down_active();
+	bool left_active();
+	bool right_active();
+	bool game_over_check();
 	Box boxof2048[UI2048W * UI2048H];
 	std::ofstream log_file;
-	int Scores = 0;
+	uint Scores = 0;
 };
 
 

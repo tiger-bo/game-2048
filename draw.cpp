@@ -169,7 +169,7 @@ bool Ui_2048::Draw()
 	refresh();
 }
 
-bool Ui_2048::Up_active()
+bool Ui_2048::up_active()
 {
 
 	std::vector<int> value;
@@ -231,7 +231,7 @@ bool Ui_2048::Up_active()
 	return true;
 }
 
-bool Ui_2048::Down_active()
+bool Ui_2048::down_active()
 {
 	std::vector<int> value;
 	for (int i = 0; i < UI2048W; ++i)
@@ -284,7 +284,7 @@ bool Ui_2048::Down_active()
 	return true;	
 }
 
-bool Ui_2048::Left_active()
+bool Ui_2048::left_active()
 {
 	std::vector<int> value;
 	for (int i = 0; i < UI2048H; ++i)
@@ -343,7 +343,7 @@ bool Ui_2048::Left_active()
 	return true;
 }
 
-bool Ui_2048::Right_active()
+bool Ui_2048::right_active()
 {
 	std::vector<int> value;
 	for (int i = 0; i < UI2048H; ++i)
@@ -401,6 +401,76 @@ bool Ui_2048::Right_active()
 	return true;
 }
 
+bool Ui_2048::game_over_check()
+{
+
+
+	std::vector<int> value;
+	for (int i = 0; i < UI2048W; ++i)
+	{	
+		log_file << "i:" << i << std::endl;
+		if(!value.empty())
+			value.clear();
+		int pushflag = 0;
+		for (int j = 0; j < UI2048H; ++j)
+		{
+			log_file << "j:" << j << std::endl;
+			
+			if(boxof2048[i + j * UI2048W].Get_box_value_is_set())
+			{
+
+				log_file << "value is set" << std::endl;
+				value.push_back(boxof2048[i + j * UI2048W].Get_box_value());	
+			}
+		}
+
+		int count = value.size() - 1;		
+
+	    for (int j = 0; j < count; j++)
+	    {
+	    	log_file << "check : " <<value[j] << std::endl;
+	    	if (value[j] == value[j + 1])
+	    	{
+	    		return false;
+	    	}
+	    }
+	}
+
+	for (int i = 0; i < UI2048H; ++i)
+	{	
+		log_file << "i:" << i << std::endl;
+		if(!value.empty())
+			value.clear();
+		int pushflag = 0;
+		for (int j = 0; j < UI2048W; ++j)
+		{
+			log_file << "j:" << j << std::endl;			
+			if(boxof2048[i * UI2048W + j].Get_box_value_is_set())
+			{
+
+				log_file << "value is set" << std::endl;
+
+				value.push_back(boxof2048[i * UI2048W + j].Get_box_value());
+
+			}
+		}
+
+		int count = value.size() - 1;
+
+	    for (int j = 0; j < count; j++)
+	    {
+	    	log_file << "check : " <<value[j] << std::endl;
+	    	if (value[j] == value[j + 1])
+	    	{
+	    		return false;
+	    	}
+	    }
+
+	}
+
+	return true;
+
+}
 
 bool Ui_2048::Generate_num()
 {
@@ -421,7 +491,7 @@ bool Ui_2048::Generate_num()
 
 	if (pos.size() == 0)
 	{
-		return false;
+		return !game_over_check();
 	}
 	rad = rand() % pos.size();
 
@@ -445,19 +515,19 @@ bool Ui_2048::Active(int ch)
 	switch(ch)
 	{
 		case KEY_UP:
-			Up_active();
+			up_active();
 			mvwprintw(stdscr, 50 , 30, "UP");			
 			break;
 		case KEY_DOWN:
-			Down_active();
+			down_active();
 			mvwprintw(stdscr, 50 , 30, "DOWN");
 			break;
 		case KEY_LEFT:
-			Left_active();
+			left_active();
 			mvwprintw(stdscr, 50 , 30, "LEFT");
 			break;
 		case KEY_RIGHT:
-			Right_active();
+			right_active();
 			mvwprintw(stdscr, 50 , 30, "RIGHT");
 			break;
 	}
