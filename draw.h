@@ -1,4 +1,6 @@
-#include <curses.h>
+#ifndef __DRAW_H__
+#define __DRAW_H__
+#include <ncurses.h>
 
 
 #define DRAW_C '|'
@@ -9,9 +11,9 @@ void Init_curses();
 class Box
 {
 public:	
-	Box();
-	~Box();
-	void Draw_box();
+	Box(){};
+	~Box(){};
+	bool Draw_box();
 	int Set_win_x(int size);
 	int Set_win_y(int size);
 	int Set_box_high(int size);
@@ -32,3 +34,4 @@ private:
 
 
 
+#endif
