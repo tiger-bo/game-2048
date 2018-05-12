@@ -2,19 +2,19 @@
 
 
 int main() 
-{
-	Box test;
+{	
+	int ch = 0;
 
-	Init_curses();
+	Ui_2048 test;
 
-	test.Set_win_x(1);
-	test.Set_win_y(1);
-	test.Set_box_high(30);
-	test.Set_box_width(30);
 
-	test.Draw_box();
+	while( (ch = getch()) != 0x1b)
+	{	
+
+		test.Active(ch);
+		test.Draw();
+	}
 	
-	getchar();
 	endwin();
 	return 0;
 }
