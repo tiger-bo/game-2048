@@ -4,4 +4,4 @@ the game 2048
 first
 111
 
-add zhangzy
+del zhangzy
