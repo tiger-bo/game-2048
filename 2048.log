@@ -1,0 +1,3737 @@
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  2 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 13 rad 10
+i:0
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:1
+j:0
+j:1
+j:2
+j:3
+SET Box  SIZE: 0
+i:2
+j:0
+j:1
+j:2
+j:3
+SET Box  SIZE: 0
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value = box_value value :2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  2 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 13 rad 3
+i:0
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+j:3
+value is set
+value = box_value value :2
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+i:3
+j:0
+j:1
+j:2
+j:3
+ box_value  2 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 13 rad 2
+i:0
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+j:1
+j:2
+j:3
+i:3
+j:0
+j:1
+j:2
+j:3
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 12 rad 10
+i:0
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  2 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  2 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 11 rad 8
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+j:3
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  2 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  4 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 11 rad 10
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+value is set
+value = box_value value :4
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+SET Box  SIZE: 0
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  0 box set 0 i 2
+ box_value  2 box set 1 i 3
+ box_value  8 box set 1 i 4
+ box_value  2 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 11 rad 10
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  8 box set 1 i 12
+ box_value  2 box set 1 i 13
+ box_value  0 box set 0 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 11 rad 9
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+j:3
+i:2
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  2 box set 1 i 9
+ box_value  4 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  8 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 10 rad 8
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+j:3
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  4 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  2 box set 1 i 10
+ box_value  0 box set 0 i 11
+ box_value  8 box set 1 i 12
+ box_value  2 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 10 rad 9
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+j:3
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :4
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  8 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  8 box set 1 i 12
+ box_value  2 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 10 rad 9
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  16 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 12 rad 2
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+j:3
+i:2
+j:0
+j:1
+j:2
+j:3
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :4
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  2 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  16 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  8 box set 1 i 15
+ tmp_boxs size 12 rad 10
+i:0
+j:0
+j:1
+j:2
+j:3
+SET Box  SIZE: 0
+i:1
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value = box_value value :2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+ box_value  0 box set 0 i 0
+ box_value  16 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  8 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 12 rad 6
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  4 box set 1 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  8 box set 1 i 15
+ tmp_boxs size 11 rad 2
+i:0
+j:0
+j:1
+j:2
+j:3
+SET Box  SIZE: 0
+i:1
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+ box_value  0 box set 0 i 0
+ box_value  16 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  2 box set 1 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 10 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+i:3
+j:0
+j:1
+j:2
+j:3
+ box_value  2 box set 1 i 0
+ box_value  16 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 9 rad 6
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+ box_value  2 box set 1 i 0
+ box_value  16 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 8 rad 7
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :2
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  16 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  4 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 8 rad 7
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value != box_value
+ box_value  2 box set 1 i 0
+ box_value  16 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  4 box set 1 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 7 rad 2
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  4 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  2 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  8 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 9 rad 1
+i:0
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  16 box set 1 i 5
+ box_value  8 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 8 rad 4
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  0 box set 0 i 6
+ box_value  4 box set 1 i 7
+ box_value  4 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  2 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  8 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 7 rad 4
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  16 box set 1 i 5
+ box_value  8 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  0 box set 0 i 9
+ box_value  0 box set 0 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 6 rad 4
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :8
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  16 box set 1 i 5
+ box_value  16 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  2 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 7 rad 6
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value = box_value value :16
+j:3
+value is set
+value != box_value
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value = box_value value :2
+ box_value  0 box set 0 i 0
+ box_value  4 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  2 box set 1 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 8 rad 1
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  2 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  4 box set 1 i 10
+ box_value  32 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  8 box set 1 i 15
+ tmp_boxs size 8 rad 1
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  2 box set 1 i 4
+ box_value  4 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  4 box set 1 i 8
+ box_value  32 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  8 box set 1 i 15
+ tmp_boxs size 7 rad 6
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 1
+SET Box
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  8 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 7 rad 6
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  4 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  2 box set 1 i 7
+ box_value  8 box set 1 i 8
+ box_value  32 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  8 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 7 rad 6
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value != box_value
+j:3
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  4 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  8 box set 1 i 8
+ box_value  32 box set 1 i 9
+ box_value  2 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  2 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 7 rad 6
+i:0
+j:0
+j:1
+j:2
+j:3
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :4
+SET Box
+SET Box
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  0 box set 0 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  2 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  8 box set 1 i 8
+ box_value  32 box set 1 i 9
+ box_value  2 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  8 box set 1 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 8 rad 1
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+SET Box  SIZE: 1
+SET Box
+i:3
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+SET Box  SIZE: 1
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  4 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  8 box set 1 i 3
+ box_value  8 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  4 box set 1 i 8
+ box_value  8 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 8 rad 7
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :4
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+SET Box
+SET Box
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  8 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  4 box set 1 i 8
+ box_value  8 box set 1 i 9
+ box_value  0 box set 0 i 10
+ box_value  0 box set 0 i 11
+ box_value  2 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 8 rad 7
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value = box_value value :2
+ box_value  0 box set 0 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  8 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  8 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  4 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 8 rad 4
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+i:2
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  8 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  0 box set 0 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  0 box set 0 i 11
+ box_value  4 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 7 rad 3
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  8 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  8 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 6 rad 2
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  2 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 5 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+j:1
+j:2
+j:3
+value is set
+value != box_value
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  2 box set 1 i 5
+ box_value  8 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 4 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+j:2
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  2 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 3 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  2 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  2 box set 1 i 5
+ box_value  8 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  2 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :4
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  2 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  8 box set 1 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 3 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+SET Box
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  2 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  8 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  2 box set 1 i 5
+ box_value  8 box set 1 i 6
+ box_value  32 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  4 box set 1 i 13
+ box_value  8 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 2 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  8 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 2 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  4 box set 1 i 13
+ box_value  8 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 1 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  4 box set 1 i 9
+ box_value  8 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  8 box set 1 i 14
+ box_value  4 box set 1 i 15
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :2
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :4
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :8
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+ box_value  8 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  8 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  4 box set 1 i 8
+ box_value  8 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  0 box set 0 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 4 rad 2
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  8 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  0 box set 0 i 4
+ box_value  0 box set 0 i 5
+ box_value  32 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  8 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  8 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 5 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value = box_value value :8
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  16 box set 1 i 4
+ box_value  16 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  2 box set 1 i 7
+ box_value  0 box set 0 i 8
+ box_value  0 box set 0 i 9
+ box_value  16 box set 1 i 10
+ box_value  4 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  2 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 5 rad 2
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  8 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  2 box set 1 i 4
+ box_value  0 box set 0 i 5
+ box_value  32 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 4 rad 2
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+j:1
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  16 box set 1 i 4
+ box_value  16 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  2 box set 1 i 8
+ box_value  0 box set 0 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  0 box set 0 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 3 rad 1
+ box_value  0 box set 0 i 0
+ box_value  0 box set 0 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  2 box set 1 i 4
+ box_value  0 box set 0 i 5
+ box_value  32 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 3 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  0 box set 0 i 4
+ box_value  2 box set 1 i 5
+ box_value  32 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value = box_value value :2
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 2
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  4 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  0 box set 0 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 2 rad 1
+ box_value  2 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  0 box set 0 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  8 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  2 box set 1 i 15
+ tmp_boxs size 2 rad 1
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 4
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box  SIZE: 3
+SET Box
+SET Box
+SET Box
+ box_value  2 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  2 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  2 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 1 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  0 box set 0 i 0
+ box_value  2 box set 1 i 1
+ box_value  8 box set 1 i 2
+ box_value  4 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  4 box set 1 i 13
+ box_value  16 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 2 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value = box_value value :2
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  0 box set 0 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  4 box set 1 i 12
+ box_value  16 box set 1 i 13
+ box_value  4 box set 1 i 14
+ box_value  0 box set 0 i 15
+ tmp_boxs size 2 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  4 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  0 box set 0 i 12
+ box_value  4 box set 1 i 13
+ box_value  16 box set 1 i 14
+ box_value  4 box set 1 i 15
+ tmp_boxs size 1 rad 0
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  16 box set 1 i 14
+ box_value  4 box set 1 i 15
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+ box_value  4 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  16 box set 1 i 14
+ box_value  4 box set 1 i 15
+i:0
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:1
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:2
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+i:3
+j:0
+value is set
+value != box_value
+j:1
+value is set
+value != box_value
+j:2
+value is set
+value != box_value
+j:3
+value is set
+value != box_value
+SET Box
+SET Box
+SET Box
+SET Box
+ box_value  4 box set 1 i 0
+ box_value  8 box set 1 i 1
+ box_value  4 box set 1 i 2
+ box_value  2 box set 1 i 3
+ box_value  4 box set 1 i 4
+ box_value  32 box set 1 i 5
+ box_value  4 box set 1 i 6
+ box_value  8 box set 1 i 7
+ box_value  16 box set 1 i 8
+ box_value  2 box set 1 i 9
+ box_value  16 box set 1 i 10
+ box_value  2 box set 1 i 11
+ box_value  2 box set 1 i 12
+ box_value  4 box set 1 i 13
+ box_value  16 box set 1 i 14
+ box_value  4 box set 1 i 15

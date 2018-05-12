@@ -12,7 +12,12 @@ int main()
 	{	
 
 		test.Active(ch);
-		test.Draw();
+
+		if (test.Generate_num())
+			test.Draw();
+		else
+			mvwprintw(stdscr, 52 , 30, "game over...");
+			test.Draw();
 	}
 	
 	endwin();

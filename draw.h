@@ -3,6 +3,7 @@
 
 #include <ncurses.h>
 #include <iostream>
+#include <fstream>
 
 
 #define DRAW_C '|'
@@ -11,7 +12,7 @@
 #define UI2048H 4
 #define UI2048W 4
 
-void Init_curses();
+void Init_logfile();
 
 class Box
 {
@@ -53,12 +54,19 @@ class Ui_2048:public Box
 public:
 	Ui_2048();
 	Ui_2048(int x, int y, int size);
-	~Ui_2048(){};
+	~Ui_2048(){ log_file.close();};
 
 	bool Draw();
 	bool Active(int ch);
+	bool Up_active();
+	bool Down_active();
+	bool Left_active();
+	bool Right_active();
+	bool Generate_num();
 private:
 	Box boxof2048[UI2048W * UI2048H];
+	std::ofstream log_file;
+	int Scores;
 };
 
 
