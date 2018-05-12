@@ -66,7 +66,7 @@ public:
 private:
 	Box boxof2048[UI2048W * UI2048H];
 	std::ofstream log_file;
-	int Scores;
+	int Scores = 0;
 };
 
 
